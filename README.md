@@ -6,4 +6,4 @@ Get to know this cool little microcontroller from  ESPRIFF
 **Release date**: September 6, 2016\
 **Power**: 3.3 V DC\
 **Manufacturer**: Espressif Systems\
-**Predecessor**: ESP8266\
+**Predecessor**: ESP8266
