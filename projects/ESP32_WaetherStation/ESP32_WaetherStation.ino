@@ -9,7 +9,7 @@
 
 /*Put your SSID & Password*/
 const char* ssid = "SFLY_GUEST";  // Enter SSID here
-const char* password = "TinyFly2012";  //Enter Password here
+const char* password = "xxxx";  //Enter Password here
 
 WebServer server(80);
 
